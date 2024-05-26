@@ -1,7 +1,6 @@
 <h1 align="center"> Hello Fellas
 <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 120px>
-<h2> <p align="left"> I am : </p> </h2> 
-<h3 align="left"> Uzair here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
+<h2> <p align="left"> I am : Uzair here!</p><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2> 
 
 - 🌱 an undergraduate tech-native student
 - 🌟 a full stack developer at @Al-Nafi
