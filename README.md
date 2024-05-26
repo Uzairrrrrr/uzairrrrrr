@@ -22,11 +22,20 @@
 
 <br>
 <h2> Let's connect at :  </h2>
-  <p align="left">
-  <a href="https://www.linkedin.com/in/uzair-" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="uzi" height="30" width="40" /></a>  <a href="https://www.instagram.com/itzzz_uzi/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="uzi" height="30" width="40" /></a>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+      <a href="https://www.linkedin.com/in/uzair-" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzi" height="30" width="40" />
+      </a>
+      <a href="https://www.instagram.com/itzzz_uzi/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzi" height="30" width="40" />
+      </a>
+    </div>
+    <div>
+      <img src="https://komarev.com/ghpvc/?username=uzairrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="uzairrrrrr" />
+    </div>
+  </div>
+  <hr>
+  
 
 </p>
