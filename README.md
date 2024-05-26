@@ -17,7 +17,7 @@
 <br>
 <h2 align="left">  My githib contributions : </h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairrrrrr" alt="uzairrrrrr" style="display: inline-block; width: 45%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairrrrrr" alt="uzairrrrrr" style=style="width: 100%; height: auto;"  />
 </p>
 
 <br>
