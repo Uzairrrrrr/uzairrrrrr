@@ -29,7 +29,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="uzi" height="30" width="40" /></a>
 </p>
-<hr>
-<p align="left">
+<p align="right">
     <img src="https://komarev.com/ghpvc/?username=uzairrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="uzairrrrrr" />
   </p>
