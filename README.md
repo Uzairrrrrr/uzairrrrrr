@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/ERPNext-3A3A3A?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
   
   ## 💼 Experience
   
@@ -57,10 +58,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=uzairrrrrr&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairrrrrr&theme=radical" alt="GitHub Streak" />
   </div>
+  
   ## 📫 Connect With Me
   
   <p align="center">
-    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/uzair-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:uzairawan156@gmail.com">
